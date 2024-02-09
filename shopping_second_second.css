@@ -1,0 +1,49 @@
+body {
+    font-family: "新レトロ丸ゴシック";
+    background-color: rgb(241, 160, 208);
+}
+
+p1 {
+    text-align: center;
+    color: rgb(14, 111, 26);
+    font-weight: 100;
+    font-size: 50px;
+    background-color: rgba(177, 212, 138, 0.949);
+    opacity: 0.8;
+    margin:auto
+}
+
+p2 {
+    color: rgb(185, 0, 0);
+    font-weight: 2700;
+    font-size: 85px;
+}
+
+p3 {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+p4 {
+    font-weight: 300;
+    font-size: 75px;
+}
+
+p5 {
+    font-weight: 300;
+    font-size: 55px;
+}
+
+p6{
+    font-size: 40px;
+    background-color: indianred;
+    margin-right: 70px;
+}
+
+img {
+    margin-left: 9px;
+}
+
+input[type="number"] {
+    width: 130px;
+}
